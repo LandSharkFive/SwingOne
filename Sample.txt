@@ -1,0 +1,77 @@
+INTC - Swing Trading Strategy Analysis
+Moving Average
+Starting Capital: $10,000.00
+Ending Capital:   $11,676.59
+Total Return:     16.77%
+Winning Trades:   17
+Losing Trades:    12
+Win Rate:         58.62%
+Drawdown:         $229.70
+Profit Factor:    4.67
+Avg Win:          $125.46
+Avg Loss:         $38.03
+
+
+PSAR
+Starting Capital: $10,000.00
+Ending Capital:   $11,622.41
+Total Return:     16.22%
+Winning Trades:   6
+Losing Trades:    5
+Win Rate:         54.55%
+Drawdown:         $245.62
+Profit Factor:    7.31
+Avg Win:          $313.24
+Avg Loss:         $51.40
+
+
+SuperTrend
+Starting Capital: $10,000.00
+Ending Capital:   $11,595.20
+Total Return:     15.95%
+Winning Trades:   8
+Losing Trades:    4
+Win Rate:         66.67%
+Drawdown:         $132.86
+Profit Factor:    8.10
+Avg Win:          $227.48
+Avg Loss:         $56.16
+
+
+Moving Average (Trailing Stop)
+Starting Capital: $10,000.00
+Ending Capital:   $12,771.09
+Total Return:     27.71%
+Winning Trades:   28
+Losing Trades:    14
+Win Rate:         66.67%
+Drawdown:         $115.32
+Profit Factor:    8.17
+Avg Win:          $112.78
+Avg Loss:         $27.62
+
+
+PSAR (Trailing Stop)
+Starting Capital: $10,000.00
+Ending Capital:   $11,827.12
+Total Return:     18.27%
+Winning Trades:   7
+Losing Trades:    2
+Win Rate:         77.78%
+Drawdown:         $60.87
+Profit Factor:    26.28
+Avg Win:          $271.34
+Avg Loss:         $36.13
+
+
+SuperTrend (Trailing Stop)
+Starting Capital: $10,000.00
+Ending Capital:   $11,728.06
+Total Return:     17.28%
+Winning Trades:   8
+Losing Trades:    2
+Win Rate:         80.00%
+Drawdown:         $80.37
+Profit Factor:    19.83
+Avg Win:          $227.48
+Avg Loss:         $45.89

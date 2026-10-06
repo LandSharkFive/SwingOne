@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SwingOne/SwingOne.csproj" />
+  <Project Path="TestProjectOne/TestProjectOne.csproj" Id="1929a6c8-da3b-4e68-ad82-50f73a1964dc" />
+</Solution>
