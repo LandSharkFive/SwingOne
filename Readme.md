@@ -12,7 +12,7 @@
   * **SuperTrend Indicator:** Calculates Average True Range (ATR) based upper/lower bands to trigger trend-following entries and exits.
 * **Trailing Stop Variants:** Optional high-watermark percentage-based trailing stops for all core strategies to protect unrealized gains.
 * **Performance Analytics & Metrics:** Built-in calculation of starting/ending capital, win rate percentage, profit factor, average gains/losses, and maximum drawdown.
-* **CSV Data Ingestion:** Dedicated Yahoo Finance CSV loader with automatic parsing and chronological ordering.
+* **CSV Data Ingestion:** Yahoo Finance CSV loader.
 
 ## License
 
